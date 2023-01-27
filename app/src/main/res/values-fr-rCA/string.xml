@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello_world">Bonjour le monde</string>
-    <string name="button_text">Je suis un bouton</string>
+    <string name="I_love_Android">J\'aime Androïd</string>
+    <string name="Press_Me">Appuyez sur moi</string>
+    <string name="switch_on_off">Allumer / éteindre</string>
+    <string name="check_this_out">Regarde ça!</string>
+    <string name="i_love_android">J\'aime Androïd</string>
 </resources>
